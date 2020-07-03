@@ -1,3 +1,4 @@
+
 @font-face {
     font-family: 'Antonio';
     src: url('assets/fonts/Antonio/Antonio-Bold.woff2') format('woff2'),
@@ -50,9 +51,9 @@
 }
 
 @font-face {
-    font-family: 'Barlow-SemiBold';
-    src: url(assets/fonts/Barlow-SemiBold/Barlow-SemiBold.woff2) format('woff2'), 
-         url(assets/fonts/Barlow-SemiBold/Barlow-SemiBold.woff) format('woff');
+    font-family: 'BarlowCondensed-SemiBold';
+    src: url(assets/fonts/BarlowCondensed-SemiBold/BarlowCondensed-SemiBold.woff2) format('woff2'), 
+         url(assets/fonts/BarlowCondensed-SemiBold/BarlowCondensed-SemiBold.woff) format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
