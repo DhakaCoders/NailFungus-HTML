@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'FiraSans-Bold';
+    src: url('FiraSans-Bold/FiraSans-Bold.woff2') format('woff2'),
+        url('FiraSans-Bold/FiraSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

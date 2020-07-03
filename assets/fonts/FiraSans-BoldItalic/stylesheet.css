@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'FiraSans-BoldItalic';
+    src: url('FiraSans-BoldItalic/FiraSans-BoldItalic.woff2') format('woff2'),
+        url('FiraSans-BoldItalic/FiraSans-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
