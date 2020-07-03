@@ -1,0 +1,23 @@
+.nfs-section-1{
+	background: url('assets/images/nfs-section-1-bg.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	border-bottom: 10px solid #d2d1d1;
+}
+.nfs-sub-con-1{
+	background: #0270a5;
+	opacity: 0.9;
+	padding: 150px 40px 70px 30px;
+	border-bottom: 11px solid #ff9c00;
+}
+.nfs-sub-con-1 h1{
+	font-family: 'Antonio';
+	font-weight: 700;
+	color: #fff;
+	text-transform: capitalize;
+	font-size: 54px;
+}
+.nfs-sub-con-1 h1 span{
+	color: #ffde00;
+}
