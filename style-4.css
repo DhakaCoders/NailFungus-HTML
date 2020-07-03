@@ -6,11 +6,18 @@
 }
 .nfn-sec-yellow-title-01{
 	text-align: center;
+	padding-top: 10px;
 }
 .nfn-sec-yellow-title-01 h2{
 	display: inline-block;
 	vertical-align: baseline;
 	padding: 20px 100px 20px 55px;
 	background-repeat: no-repeat!important;
-	margin-bottom: 15px;
+	margin-bottom: 25px;
+}
+.nfr-sec-1-fea-img-03{
+	margin-bottom: 22px;
+}
+.nfr-sec-1-fea-img-02 img{
+	margin-top: -35px;
 }
