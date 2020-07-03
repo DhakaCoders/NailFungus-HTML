@@ -118,6 +118,11 @@ img {
   padding: 0;
   list-style: none;
 }
+.inline-bg{
+  background-size: cover!important;
+  background-repeat: no-repeat!important;
+  background-position: center center!important;
+}
 .overlay-link {
   position: absolute;
   left: 0;
