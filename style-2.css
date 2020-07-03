@@ -1,0 +1,16 @@
+.nfn-section-1-desc{
+	min-height: 560px;
+	position: relative;
+	padding: 50px 192px 20px 30px;
+	max-width: 73.4%;
+	width: 100%;
+}
+.nfn-section-1-img{
+	position: absolute;
+}
+.nfn-section-1-desc-title{
+	font-size: 60px;
+	font-weight: 600;
+	display: inline-block;
+	color: #0194d4;
+}
