@@ -33,19 +33,52 @@
 .nfm-sub-2-btm-img img{
 	width: 100%;
 }
-.nfm-section-3-head{
-	background:#007ab5;
-	border-bottom: 5px solid#ff9c00;
-	border-radius: 5px 5px 0 0;
-	text-align: center;
-	padding: 5px 15px 15px; 
+.nfm-section-3-head {
+    background: #007ab5;
+    border-bottom: 5px solid#ff9c00;
+    border-radius: 5px 5px 0 0;
+    text-align: center;
+    padding: 5px 15px 15px;
+    margin-left: -15px;
+    margin-right: -15px;
+    margin-bottom: 35px;
 }
 .nfm-section-3-head h1{
 	color: #fff;
 	margin: 0;
 }
-.nfm-section-3{
+.nfm-section-3-block{
     background-repeat: no-repeat!important;
     background-size: cover!important;
-    background-position: center bottom!important;
+    background-position: center center!important;
+}
+.nfm-yellow-title-01 {
+    display: inline-block;
+    vertical-align: baseline;
+    padding: 10px 50px 20px 18px;
+    background-repeat: no-repeat!important;
+    color: #fff;
+    margin-left: -15px;
+    margin-bottom: 0;
+}
+.nfm-sub-3-con-block{
+	padding: 0 15px;
+}
+.nfm-sub-3-con strong{
+	display:block;
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 38px;
+	margin-bottom: 22px;
+}
+.nfm-sub-3-con-img-1{
+	padding-bottom: 70px;
+}
+.nfm-sub-3-con-two-part-lft{
+	width: 50%;
+	float: left;
+}
+.nfm-sub-3-con-two-part-rgt{
+	width: 50%;
+	float: right;
 }
