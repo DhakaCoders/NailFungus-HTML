@@ -52,7 +52,8 @@
     background-size: cover!important;
     background-position: center center!important;
 }
-.nfm-yellow-title-01 {
+.nfm-yellow-title-02,
+.nfm-yellow-title-01{
     display: inline-block;
     vertical-align: baseline;
     padding: 10px 50px 20px 18px;
@@ -61,9 +62,14 @@
     margin-left: -15px;
     margin-bottom: 0;
 }
+.nfm-yellow-title-02 {
+    padding-right: 55px;
+    padding-bottom: 35px;
+}
 .nfm-sub-3-con-block{
 	padding: 0 15px;
 }
+.nfm-sub-3-con-btm strong,
 .nfm-sub-3-con strong{
 	display:block;
 	font-weight: bold;
@@ -81,4 +87,48 @@
 .nfm-sub-3-con-two-part-rgt{
 	width: 50%;
 	float: right;
+}
+.nfm-sub-3-con-btm strong{
+	margin-bottom: 10px;
+}
+.nfm-sub-3-con-btm img{
+	padding-bottom: 25px;
+}
+.nfm-section-4{
+	padding-top: 30px;
+}
+.nfm-section-4-head h1{
+	color: #0194d4;
+	text-align: center;
+}
+.nfm-sub-4-con-img img{
+	width: 100%;
+}
+.nfm-section-5{
+	background: #0192d1;
+	padding-top: 25px;
+}
+.nfm-section-5-head h1{
+	text-align: center;
+	color: #fff;
+	margin-bottom: 30px;
+}
+.nfm-sub-5-con-img{
+	text-align: center;
+	padding-bottom: 45px;
+}
+.nfm-sub-5-con-dsc{
+	color: #fff;
+}
+.nfm-section-6{
+	padding-bottom: 60px;
+}
+.nfm-section-6-head h1{
+	color: #ff9c00;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.nfm-sub-con-6-img-3{
+	padding-top: 10px;
 }
