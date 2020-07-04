@@ -229,6 +229,9 @@ strong { font-weight:normal }
 em,i{
   font-family: 'FiraSans-Italic';
 }
+strong,b{
+  font-family: 'FiraSans-Bold';
+}
 h1 {
   font-size: 60px;
   font-family: 'BarlowCondensed-SemiBold';
@@ -247,7 +250,7 @@ h4 {
 
 .h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6 {
   margin-top: 0;
-  line-height: 1.2;
+  line-height: 1.1;
 } 
 
 @media(max-width: 1199px){
