@@ -21,3 +21,61 @@
 .nfr-sec-1-fea-img-02 img{
 	margin-top: -35px;
 }
+.nfr-sec-1-fea-img-04{
+	padding-bottom: 35px;
+	text-align: center;
+}
+.nfr-sub-section-3{
+	background-repeat: no-repeat!important;
+	background-size: 100% 100%;
+	padding: 35px 30px;
+	margin-bottom: 40px;
+}
+
+
+.nfr-section-2{
+	padding: 35px 0 50px;
+}
+.nfn-sec-yellow-title-02{
+	text-align: center;
+    padding-top: 10px;
+}
+.nfn-sec-yellow-title-02 h2{
+    display: inline-block;
+    vertical-align: baseline;
+    padding: 15px 80px 20px 60px;
+    background-repeat: no-repeat!important;
+    margin-bottom: 45px;
+}
+.nfr-sec-2-img-01{
+	padding-bottom: 20px;
+}
+.nfr-section-2 p{
+	margin-bottom: 25px;
+}
+
+.nfr-sec-2-img-02{
+	padding-bottom: 30px;
+}
+
+.nfr-section-3{
+	padding: 27px 0 65px;
+}
+.nfn-sec-yellow-title-03 h2{
+	display: inline-block;
+    vertical-align: baseline;
+    padding: 15px 100px 20px 101px;
+    background-repeat: no-repeat!important;
+    margin-bottom: 35px;
+}
+
+.nfr-sec-3-img-01{
+	padding: 30px 0;
+}
+
+.nfr-sec-3-img-02{
+	padding: 0 0 30px;
+}
+.nfr-sec-3-img-03{
+	padding: 0 0 37px;
+}
