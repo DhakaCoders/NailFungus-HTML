@@ -1,3 +1,6 @@
+.nfm-section-1{
+	padding-bottom: 25px;
+}
 .nfm-sub-con-1-head h1{
 	text-align: center;
 	color: #ff9c00;
@@ -10,14 +13,17 @@
 .nfm-sub-con-1-btm{
 	padding-top: 22px;
 }
-
-.nfm-section-2-head{
+.nfm-section-2{
+	padding-bottom: 40px;
+}
+.nfm-section-2-head {
     background-repeat: no-repeat!important;
     background-position: center center!important;
-    background-size: contain!important;
-    padding: 17px 20px 55px;
+    background-size: 100% 100%!important;
+    padding: 0px 20px 20px;
     text-align: center;
     color: #fff;
+    margin-bottom: 33px;
 }
 .nfm-sub-2-con{
 	padding-right: 10px;
@@ -50,7 +56,7 @@
 .nfm-section-3-block{
     background-repeat: no-repeat!important;
     background-size: cover!important;
-    background-position: center center!important;
+    background-position: bottom center!important;
 }
 .nfm-yellow-title-02,
 .nfm-yellow-title-01{
@@ -69,8 +75,8 @@
 .nfm-sub-3-con-block{
 	padding: 0 15px;
 }
-.nfm-sub-3-con-btm strong,
-.nfm-sub-3-con strong{
+.nfm-sub-3-con-btm h2 strong,
+.nfm-sub-3-con h2 strong{
 	display:block;
 	font-weight: bold;
 	font-size: 36px;
@@ -131,4 +137,93 @@
 }
 .nfm-sub-con-6-img-3{
 	padding-top: 10px;
+}
+p strong.nfm-sub-txt-line{
+	z-index: 2 !important;
+	font-weight: bold !important;
+	position: relative !important;
+}
+p strong.nfm-sub-txt-line:after{
+    content: "" !important;
+    position: absolute !important;
+    left: 0 !important;
+    right: 0 !important;
+    width: 100% !important;
+    height: 4px !important;
+    background: #ff9c00 !important;
+    bottom: 3px !important;
+    z-index: -1 !important;
+}
+.mrg-btm-0{
+	margin-bottom: 0 !important;
+}
+
+
+@media(max-width: 1199px){ 
+
+} 
+
+@media(max-width: 1023px){
+
+}
+
+@media(max-width: 991px){
+	.nfm-sub-2-con-img{
+		text-align: center;
+		padding-bottom: 30px;
+	} 
+	.nfm-sub-2-btm-img {
+	    padding-top: 20px;
+	    padding-right: 0;
+	    padding-bottom: 30px;
+	}
+	.nfm-sub-3-con-two-part-rgt,
+	.nfm-sub-3-con-two-part-lft{
+		width: 100%;
+	}
+	.nfm-sub-3-con-two-part-rgt{
+		text-align: center;
+		padding-bottom: 30px;
+	}
+	.nfm-sub-4-con-img{
+		padding-top:20px;
+		padding-bottom: 30px;
+	}
+	.nfm-sub-con-6-img{
+		text-align: center;
+		padding-bottom: 30px;
+	}
+	.nfm-sub-con-6-img-1{
+		text-align: center;
+		padding-bottom: 30px;
+	}
+	.nfm-sub-con-6-img-3 {
+	    padding-top: 10px;
+	    padding-bottom: 30px;
+	    text-align: center;
+	}
+}
+
+@media (max-width:830px){
+    
+}
+
+@media(max-width: 767px){
+    
+}
+
+@media(max-width: 639px){
+    
+}
+ 
+@media(max-width: 575px){
+    
+}
+
+@media(max-width: 479px){
+    
+}
+
+@media(max-width: 359px){
+    
 }
