@@ -1,3 +1,6 @@
+.gap-10{
+	height: 10px;
+}
 .nfr-text-module p u{
 	text-decoration: underline;
 	text-decoration-color: #ff9c00;
@@ -289,7 +292,7 @@ box-shadow: 0px 0px 16px 0px rgba(222,222,222,1);
 	width: 45%;
 	position: absolute;
 	right: 0;
-	bottom: -1px;
+	bottom: 0;
 }
 
 .nfr-sec-yellow-title-05{
@@ -498,7 +501,7 @@ box-shadow: 1px 1px 42px 6px rgba(217,217,217,1);
 }
 .fl-ftr-des{
     color: #5a656e;
-    padding: 0 3px;
+    padding: 0 38px;
 }
 
 
