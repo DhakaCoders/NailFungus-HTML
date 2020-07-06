@@ -799,3 +799,52 @@ box-shadow: 1px 1px 42px 6px rgba(217,217,217,1);
     left: 0;
     top: 0;
 }
+
+@media(max-width: 1399px){
+	.nfr-sec-9-sub-sec-01-fea-img-01,
+	.nfr-sec-13-sub-sec-01-fea-img-01{
+	  margin-right: 0;
+	}
+	.nfr-sec-3-sub-sec-001-fea-img-01,
+	.nfr-sec-13-sub-sec-01-fea-img-01,
+	.nfr-sec-9-sub-sec-01-fea-img-01{
+		right: 0;
+	}
+}
+
+@media(max-width: 1199px){
+    .nfr-sec-1-fea-img-02 img{
+    	margin-top: 0;
+    }
+    .nfr-sec-yellow-title-01 h2{
+    	margin-bottom: 30px;
+    }
+}
+@media(max-width: 991px){
+    
+}
+
+
+@media(max-width: 767px){
+    .fl-ftr-des{
+        padding: 0;
+    }
+
+}
+
+
+@media(max-width: 479px){
+    .fl-ftr-nav ul li {
+        padding: 0 16px;
+        font-size: 15px;
+    }
+    .fl-footer-wrap p{
+        font-size: 13px;
+    }
+    .fl-footer-wrap{
+        padding: 45px 0 55px;
+    }
+    
+
+
+}

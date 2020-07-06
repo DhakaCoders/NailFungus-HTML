@@ -373,9 +373,12 @@ h4 {
     .mr-30{
       margin-right: 0px!important
     }
-    .nfr-sec-9-sub-sec-01-fea-img-01,
-    .nfr-sec-13-sub-sec-01-fea-img-01{
-      margin-right: 0;
+    
+    .xs-center{
+      text-align: center;
+      padding-left: 0;
+      padding-right: 0;
+      padding-bottom: 30px;
     }
 }
 @media(max-width: 991px){
