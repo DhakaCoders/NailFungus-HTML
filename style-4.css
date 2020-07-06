@@ -819,6 +819,12 @@ box-shadow: 1px 1px 42px 6px rgba(217,217,217,1);
     .nfr-sec-yellow-title-01 h2{
     	margin-bottom: 30px;
     }
+    .nfr-sec-3-sub-sec-001-fea-img-01{
+    	position: static;
+    }
+    .nfr-sec-3-sub-sec-001{
+    	padding-right: 0;
+    }
 }
 @media(max-width: 991px){
     .fl-pkg-grd-controller > ul > li {
@@ -857,7 +863,9 @@ box-shadow: 1px 1px 42px 6px rgba(217,217,217,1);
     .fl-pkg-sec-bg-hdr h2{
         font-size: 40px;
     }
-
+    .nfr-section-3{
+    	padding-bottom: 45px;
+    }
 
 
 }
@@ -922,6 +930,15 @@ box-shadow: 1px 1px 42px 6px rgba(217,217,217,1);
     .fl-pkg-sec-bg-hdr {
         margin-bottom: 35px;
     }
+    .nfr-sec-yellow-title-01 h2,
+    .nfr-sec-yellow-title-02 h2,
+    .nfr-sec-yellow-title-03 h2,
+    .nfr-sec-yellow-title-03 h2{
+    	background-position: center center!important;
+    	background-size: cover!important;
+    	padding-left: 40px;
+    	padding-right: 40px;
+    }
 
 }
 
@@ -938,6 +955,13 @@ box-shadow: 1px 1px 42px 6px rgba(217,217,217,1);
     }
     .fl-footer-wrap{
         padding: 45px 0 55px;
+    }
+    .nfr-sec-yellow-title-01 h2,
+    .nfr-sec-yellow-title-02 h2,
+    .nfr-sec-yellow-title-03 h2,
+    .nfr-sec-yellow-title-03 h2{
+    	padding-left: 30px;
+    	padding-right: 30px;
     }
     
 
