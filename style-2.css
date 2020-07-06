@@ -7,6 +7,9 @@
 	padding: 30px 100px 20px 30px;
 	max-width: 75%;
 	width: 100%;
+	background-size: 100% 100%!important;
+	background-position: center center!important;
+	background-repeat: no-repeat!important;
 }
 .nfn-section-1-img{
 	position: absolute;
@@ -27,6 +30,7 @@
 }
 .nfn-section-2-hdr{
 	padding: 30px 50px 0 50px;
+	text-align: center;
 }
 .nfn-section-2-hdr h1{
 	font-weight: 600;
@@ -86,7 +90,6 @@
 }
 .nfn-section-4-hdr{
 	margin-top: 3px;
-	min-height: 240px;
 	width: 100%;
 	text-align: center;
 	background: #007ab5;
@@ -237,4 +240,52 @@
 .nfn-section-6-sub-con-2-desc p u{
 	text-decoration: underline;
     text-decoration-color: #ff9c00;
+}
+/* responsive */
+@media(max-width: 1399px){
+
+}
+@media(max-width: 1199px){
+	.nfn-xl-center{
+		text-align: center!important;
+	}
+	.nfn-section-1-img{
+		position: static;
+		left: 0;
+		top: 0;
+		transform: translateY(0);
+		margin-right: 0;
+		margin-bottom: 30px;
+	}
+	.nfn-section-1-desc{
+		max-width: 100%;
+		padding: 30px 30px 10px 30px;
+		min-height: 0;
+	}
+	.nfn-section-1-desc-title h1{
+		text-align: center;
+	}
+	.nfn-section-2-hdr{
+		padding: 30px 0 0 0;
+	}
+}
+@media(max-width: 991px){
+	.nfn-xl-center{
+		text-align: center!important;
+	}
+}
+@media(max-width: 767px){
+	.nfn-xl-center{
+		text-align: center!important;
+	}
+}
+@media(max-width: 570px){
+	.nfn-xl-center{
+		text-align: center!important;
+	}
+}
+@media(max-width: 479px){
+	.nfn-xl-center{
+		text-align: center!important;
+	}
 }
