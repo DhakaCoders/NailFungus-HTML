@@ -9,6 +9,9 @@
 .nfr-section-1{
 	padding: 75px 0 0;
 }
+.nfr-section-1-img-01{
+	padding-top: 10px;
+}
 .nfr-sec-yellow-title-01{
 	text-align: center;
 	padding-top: 10px;
@@ -18,7 +21,8 @@
 	vertical-align: baseline;
 	padding: 20px 100px 20px 55px;
 	background-repeat: no-repeat!important;
-	margin-bottom: 25px;
+	margin-bottom: 55px;
+	background-size: 100% 100%;
 }
 .nfr-sec-1-fea-img-03{
 	margin-bottom: 22px;
@@ -51,13 +55,12 @@
     padding: 15px 80px 20px 60px;
     background-repeat: no-repeat!important;
     margin-bottom: 45px;
+    background-size: 100% 100%;
 }
 .nfr-sec-2-img-01{
 	padding-bottom: 20px;
 }
-.nfr-section-2 p{
-	margin-bottom: 25px;
-}
+
 
 .nfr-sec-2-img-02{
 	padding-bottom: 30px;
@@ -67,15 +70,25 @@
 	padding: 27px 0 65px;
 }
 .nfr-sec-yellow-title-03 h2{
-	display: inline-block;
+    display: inline-block;
     vertical-align: baseline;
-    padding: 15px 100px 20px 101px;
+    padding: 15px 100px 17px 101px;
     background-repeat: no-repeat!important;
     margin-bottom: 35px;
+    background-size: 100% 100%;
+}
+.nfr-sec-3-sub-sec-001{
+	position: relative;
+	padding: 0 340px 0 0;
+}
+.nfr-sec-3-sub-sec-001-fea-img-01{
+	position: absolute;
+	right: -45px;
+	top: -103px;
 }
 
 .nfr-sec-3-img-01{
-	padding: 30px 0;
+	padding: 50px 0 30px;
 }
 
 .nfr-sec-3-img-02{
@@ -89,6 +102,9 @@
 	background: #ffffff;
 	padding-top: 20px;
 	margin-bottom: 32px;
+	-webkit-box-shadow: 0px 0px 16px 0px rgba(222,222,222,1);
+-moz-box-shadow: 0px 0px 16px 0px rgba(222,222,222,1);
+box-shadow: 0px 0px 16px 0px rgba(222,222,222,1);
 }
 
 .nfr-sec-3-grds-cntlr ul{
@@ -101,7 +117,7 @@
 }
 .nfr-sec-3-grds-cntlr ul li{
 	width: 25%;
-	padding-bottom: 45px;
+	padding-bottom: 55px;
 	border-bottom: 2px dashed #d1e3ec;
 	margin-bottom: 35px;
 	position: relative;
@@ -123,6 +139,7 @@
 .nfr-sec-3-grds-cntlr ul li:nth-last-child(3),
 .nfr-sec-3-grds-cntlr ul li:nth-last-child(4){
 	border-bottom: none;
+	margin-bottom: 0;
 }
 .nfr-sec-3-grd-item{
 	text-align: center;
@@ -142,7 +159,7 @@
 }
 
 .nfr-sec-yellow-title-04 h3{
-	padding: 9px 190px 22px;
+	padding: 14px 190px 24px;
 	background-repeat: no-repeat!important;
 	background-size: 100% 100%;
 	display: inline-block;
