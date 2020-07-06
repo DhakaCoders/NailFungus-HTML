@@ -10,6 +10,7 @@
 	opacity: 0.9;
 	padding: 150px 40px 70px 30px;
 	border-bottom: 11px solid #ff9c00;
+	margin-bottom: -10px;
 }
 .nfs-sec-1-des h1{
 	font-weight: 700;
@@ -29,7 +30,7 @@
 .nfs-sec-2-img-01{
 	border: 4px solid #d3e0ee;
 	border-radius: 45px 3px 3px 45px;
-	min-height: 513px;
+	min-height: 520px;
 }
 
 
@@ -41,10 +42,10 @@
 
 .nfs-sec-2-des h4{
 	font-size: 28px;
-	line-height: 0.6;
-	font-family: 'FiraSans-BoldItalic';
 	display: inline-block;
-	border-bottom: 4px solid #ff9c00;
+	vertical-align: baseline;
+	text-decoration: underline;
+	text-decoration-color: #ff9c00;
 	margin-bottom: 30px;
 }
 .nfs-sec-2-des p{
@@ -75,6 +76,10 @@
 	border-radius: 45px;
 }
 
+.nfs-sec-2-row-2-des p strong{
+	text-decoration: underline;
+	text-decoration-color: #ff9c00;
+}
 .nfs-sec-2-row-2-des h4{
 	font-size: 22px;
 	line-height: 0.6;
@@ -152,11 +157,17 @@
 .nfs-sec-5-hdr{
 	min-height: 90px;
 	text-align: center;
+	background-repeat: no-repeat!important;
+	background-position: center center!important;
+	background-size: 100% 100%!important;
+}
+.nfs-sec-5 .nfs-sec-5-hdr .inline-bg{
+	background-size: 100% 100%!important;
 }
 .nfs-sec-5-hdr h1{
-	line-height: 1;
 	margin: 0;
 	color: #fff;
+	font-weight: 600;
 }
 
 .nfs-sec-5-img-01{
@@ -166,31 +177,27 @@
 	padding-top: 50px;
 }
 
-.nfs-sec-5-row-3-des h4{
-	display: inline-block;
-	font-size: 22px;
-	line-height: 1.1;
-	font-weight: 700;
+.nfs-sec-5-row-3-des p strong{
 	text-decoration: underline;
 	text-decoration-color: #ff9c00;
 }
+
 .nfs-sec-5-img-02{
 	min-height: 270px;
-    margin-top: 25px;
     margin-bottom: 60px;
 }
 .nfs-sec-5-img-03{
 	min-height: 575px;
 }
-.nfs-sec-5-row-6-des h4{
-	display: inline-block;
-	font-size: 22px;
-	line-height: 0.6;
-	font-weight: 700;
-	border-bottom: 4px solid #ff9c00;
-	margin-bottom: 35px;
+
+.nfs-sec-5-row-6-des p strong{
+	text-decoration: underline;
+	text-decoration-color: #ff9c00;
 }
 
+.nfs-sec-6-hdr-ctlr{
+	padding-top: 2px;
+}
 .nfs-sec-6-hdr{
 	background: #007ab5;
 	padding-top: 12px;
@@ -201,6 +208,7 @@
 .nfs-sec-6-hdr h1{
 	text-align: center;
 	color: #fff;
+	font-weight: 600;
 }
 .nfs-sec-6-hdr h1 span{
 	color: #ffaa24;
@@ -211,15 +219,33 @@
 }
 .nfs-sec-6-des{
 	padding-top: 50px;
+	position: relative;
+	z-index: 2;
+	float: right;
+}
+
+.nfs-sec-6-des-ctlr{
+	padding-left: 50%;
+	position: relative;
+}
+.nfs-sec-6-img-01{
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	z-index: 1;
+	width: 64%;
 }
 
 .nfs-se-6-row-3-hdr{
 	min-height: 90px;
 	text-align: center;
-	margin-top: 42px;
+	margin-top: 75px;
+	background-size: 100% 100%!important;
+	background-position: center center!important;
+	background-repeat: no-repeat!important;
 }
 .nfs-se-6-row-3-hdr h1{
-	line-height: 1;
 	margin: 0;
 	color: #fff;
 	font-weight: 700;
@@ -230,17 +256,17 @@
 	min-height: 650px;
 }
 .nfs-sec-6-row-4-des{
-	padding-top: 42px;
+	padding-top: 40px;
 }
 
 .nfs-sec-7{
-	background: #0193d3;
+	padding-top: 30px;
 	padding-bottom: 30px;
 }
 .nfs-sec-7-hdr h1{
 	text-align: center;
 	color: #fff;
-	margin-top: 30px;
+	font-weight: 600;
 }
 
 .nfs-sec-7-img-01{
