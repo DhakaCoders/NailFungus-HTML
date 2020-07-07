@@ -232,7 +232,7 @@ br{
 		position: static;
 		left: 0;
 		top: 0;
-		transform: translateY(0);
+		transform: initial;
 		margin-right: 0;
 	}
 	.nfn-section-2-sub-1-desc{
@@ -259,15 +259,16 @@ br{
 		margin-bottom: 0;
 	}
 	.nfn-section-4-hdr{
-		padding: 10px 10px 15px 10px;
+		padding: 10px 30px 15px 30px;
 		margin-bottom: 30px;
 	}
 	.nfn-section-4-sub-con-1-fea-img,
 	.nfn-section-4-sub-con-1-desc,
 	.nfn-section-4-cntlr .nfn-section-4-sub-con-3,
-	.nfn-section-4-sub-con-4-desc{
-		padding-left: 15px!important;
-		padding-right: 15px!important;
+	.nfn-section-4-sub-con-4-desc,
+	.nfn-section-4-sub-con-4-fea-img.nfn-xl-center{
+		padding-left: 20px!important;
+		padding-right: 20px!important;
 	}
 	.nfn-section-4-sub-con-1{
 		margin-bottom: 0;
@@ -308,18 +309,21 @@ br{
 	}
 }
 @media(max-width: 767px){
-	
+	.nfn-section-1-desc{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
 }
 @media(max-width: 640px){
 	.nfn-section-3-hdr,
 	.nfn-section-5-sub-con-3{
 		padding: 7px 30px 26px 30px; 
-		border-top-right-radius: 10px;
-    	border-top-left-radius: 10px;
 	}
 }
 @media(max-width: 576px){
-	
+	.nfn-section-4-hdr{
+		padding: 10px 20px 15px 20px;
+	}
 }
 @media(max-width: 479px){
 	.nfn-section-3-hdr,
