@@ -1194,7 +1194,7 @@ box-shadow: 1px 1px 42px 6px rgba(217,217,217,1);
 
 }
 
-@media(max-width: 369px){
+@media(max-width: 359px){
 	.nfr-sec-yellow-title-01 h2, .nfr-sec-yellow-title-02 h2, .nfr-sec-yellow-title-03 h2, .nfr-sec-yellow-title-03 h2 {
 	    padding-left: 25px;
 	    padding-right: 25px;

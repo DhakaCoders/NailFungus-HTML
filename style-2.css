@@ -216,9 +216,9 @@
 	}
 }
 @media(max-width: 1199px){
-br{
-	display: none;
-}
+	br{
+		display: none;
+	}
 	.nfn-xl-center{
 		text-align: center!important;
 		padding-left: 0;
@@ -314,13 +314,13 @@ br{
 		padding-right: 20px;
 	}
 }
-@media(max-width: 640px){
+@media(max-width: 639px){
 	.nfn-section-3-hdr,
 	.nfn-section-5-sub-con-3{
 		padding: 7px 30px 26px 30px; 
 	}
 }
-@media(max-width: 576px){
+@media(max-width: 575px){
 	.nfn-section-4-hdr{
 		padding: 10px 20px 15px 20px;
 	}
