@@ -427,6 +427,12 @@
 	.nfs-sec-6-row-4-des{
 	    padding-top: 0px;
 	}
+	.pl-10{
+		padding-left: 0px!important;
+	}
+	.pr-10{
+		padding-right: 0px!important;
+	}
 	
 }
 
