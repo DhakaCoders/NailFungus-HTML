@@ -1,8 +1,15 @@
-
 @font-face {
-    font-family: 'Antonio';
-    src: url('assets/fonts/Antonio/Antonio-Bold.woff2') format('woff2'),
-        url('assets/fonts/Antonio/Antonio-Bold.woff') format('woff');
+    font-family: 'Antonio-Regular';
+    src: url('assets/fonts/Antonio-Regular/Antonio-Regular.woff2') format('woff2'),
+        url('assets/fonts/Antonio-Regular/Antonio-Regular.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Antonio-Bold';
+    src: url('assets/fonts/Antonio-Bold/Antonio-Bold.woff2') format('woff2'),
+        url('assets/fonts/Antonio-Bold/Antonio-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -31,7 +38,6 @@
     font-style: italic;
     font-display: swap;
 }
-
 @font-face {
     font-family: 'FiraSans-BoldItalic';
     src: url('assets/fonts/FiraSans-BoldItalic/FiraSans-BoldItalic.woff2') format('woff2'),
@@ -43,8 +49,8 @@
 
 @font-face {
     font-family: 'Barlow-Bold';
-    src: url(assets/fonts/Barlow-Bold/barlow-bold-webfont.woff2) format('woff2'), 
-       url(assets/fonts/Barlow-Bold/barlow-bold-webfont.woff) format('woff');
+    src: url(assets/fonts/Barlow-Bold/barlow-bold.woff2) format('woff2'), 
+       url(assets/fonts/Barlow-Bold/barlow-bold.woff) format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -58,7 +64,14 @@
     font-style: normal;
     font-display: swap;
 }
-
+@font-face {
+    font-family: 'BarlowCondensed-Regular';
+    src: url(assets/fonts/BarlowCondensed-Regular/BarlowCondensed-Regular.woff2) format('woff2'), 
+         url(assets/fonts/BarlowCondensed-Regular/BarlowCondensed-Regular.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 @font-face {
     font-family: 'BarlowCondensed-SemiBold';
     src: url(assets/fonts/BarlowCondensed-SemiBold/BarlowCondensed-SemiBold.woff2) format('woff2'), 
