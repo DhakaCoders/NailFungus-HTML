@@ -18,7 +18,7 @@
 }
 .nfm-section-2-head {
     background-size: 100% 100%!important;
-    padding: 0px 20px 20px;
+    padding: 0px 50px 20px;
     text-align: center;
     color: #fff;
     margin-bottom: 33px;
@@ -32,9 +32,6 @@
 .nfm-sub-2-btm-img {
     padding-top: 20px;
     padding-right: 40px;
-}
-.nfm-sub-2-btm-img img{
-	width: 100%;
 }
 .nfm-section-3-head {
     background: #007ab5;
@@ -112,9 +109,7 @@
     text-align: center;
     margin-bottom: 20px;
 }
-.nfm-sub-4-con-img img{
-	width: 100%;
-}
+
 .nfm-section-5 {
     padding-top: 25px;
     padding-bottom: 15px;
@@ -167,6 +162,16 @@
 	    font-size: 34px;
 	    line-height: 36px;
 	}
+	.nfm-sub-con-1-head h1{
+		margin-bottom: 25px;
+	}
+	.nfm-sub-3-con-two-part-rgt,
+	.nfm-sub-3-con-two-part-lft{
+		width: 100%;
+	}
+	.nfm-sub-con-6-img-1.xs-center{
+		padding-bottom: 10px;
+	}
 } 
 
 @media(max-width: 1023px){
@@ -174,23 +179,12 @@
 }
 
 @media(max-width: 991px){
-	.nfm-sub-2-con-img{
-		text-align: center;
-		padding-bottom: 30px;
-	} 
 	.nfm-sub-2-btm-img {
 	    padding-top: 20px;
 	    padding-right: 0;
 	    padding-bottom: 30px;
 	}
-	.nfm-sub-3-con-two-part-rgt,
-	.nfm-sub-3-con-two-part-lft{
-		width: 100%;
-	}
-	.nfm-sub-3-con-two-part-rgt{
-		text-align: center;
-		padding-bottom: 30px;
-	}
+	
 	.nfm-sub-4-con-img{
 		padding-top:20px;
 		padding-bottom: 30px;
@@ -213,6 +207,8 @@
 	}
 	.nfm-sub-3-con-block {
 	    padding: 0;
+	    padding-left: 5px;
+	    padding-right: 5px;
 	}
 	.nfm-sub-2-con{
 		margin-right: 0;
@@ -239,6 +235,12 @@
 	}
 	.nfm-sub-3-con-img-1 {
 	    padding-bottom: 50px;
+	}
+	.nfm-section-4 {
+	    padding-bottom: 40px;
+	}
+	.nfm-sub-5-con-img{
+		padding-bottom: 30px;
 	}
 }
 
