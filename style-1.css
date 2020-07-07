@@ -360,6 +360,9 @@
 	.nfs-sec-7-des {
 	    padding-top: 0px;
 	}
+	.nfs-sec-4 .nfs-sec-4-img .xs-center{
+		padding-bottom: 10px!important;
+	}
 }
 
 @media(max-width: 991px){
@@ -370,23 +373,30 @@
 	    font-size: 35px;
 	}
 	.nfs-sec-2-img-01{
-		background: transparent;
+		background: transparent!important;
 		min-height: 0;
 		background-size: cover!important;
 		margin-bottom: 20px;
-		border-radius: 45px 45px 0 0;
+		border-radius: 45px 45px 45px 45px;
+		max-width: 375px;
+		width: 100%;
+		margin: 0 auto;
+		margin-bottom: 20px;
 	}
 	.nfs-sec-2-img-01 img{
 		display: block;
+		text-align: center;
+		border-radius: 45px 45px 45px 45px;
 	}
 	.nfs-sec-2-angel .nfs-sec-2-top-ange {
 	    top: -24px;
-	    left: 25px;
+	    left: 35%;
 	    transform: rotate(90deg);
 	}
 	.nfs-sec-2-angel .nfs-sec-2-top-ange-2 {
-	    bottom: 99%;
-	    right: 90px;
+	    top: 50%;
+	    left: 50%;
+	    transform: translate(-50%,50%);
 	    transform: rotate(90deg);
 	}
 	.nfs-sec-2-row-2-img {
