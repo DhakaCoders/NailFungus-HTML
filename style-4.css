@@ -801,7 +801,7 @@ box-shadow: 1px 1px 42px 6px rgba(217,217,217,1);
     top: 0;
 }
 
-@media(max-width: 1399px){
+@media(max-width: 1299px){
 	.nfr-sec-9-sub-sec-01-fea-img-01,
 	.nfr-sec-13-sub-sec-01-fea-img-01{
 	  margin-right: 0;
