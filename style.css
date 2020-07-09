@@ -508,7 +508,7 @@ h4 {
   text-decoration-color: #ff9c00;
 }
 .nfs-sec-6{
-  padding-bottom: 10px;
+  padding-bottom: 30px;
 }
 .nfs-sec-6-hdr-ctlr{
   padding-top: 2px;
@@ -697,7 +697,7 @@ h4 {
   border-top-right-radius: 10px;
   border-top-left-radius: 10px;
   border-bottom: 5px solid #ff9c00;
-  padding: 10px 68px 15px 68px;
+  padding: 10px 68px 25px 68px;
   margin-bottom: 45px;
 }
 .nfn-section-4-hdr h1{
@@ -810,7 +810,7 @@ h4 {
 }
 .nfn-section-6-hdr{
   text-align: center;
-  padding: 10px 50px 15px 50px;
+  padding: 20px 50px 15px 50px;
 }
 
 .nfn-section-6-sub-con-1-desc{
@@ -829,7 +829,7 @@ h4 {
 .nfm-sub-con-1-head h1{
   text-align: center;
   color: #ff9c00;
-  margin-top: 25px;
+  margin-top: 30px;
   margin-bottom: 35px;
 }
 .nfm-sub-con-1-img{
@@ -843,10 +843,10 @@ h4 {
 }
 .nfm-section-2-head {
     background-size: 100% 100%!important;
-    padding: 0px 50px 20px;
+    padding: 5px 50px 20px;
     text-align: center;
     color: #fff;
-    margin-bottom: 33px;
+    margin-bottom: 40px;
 }
 .nfm-sub-2-con-img {
     padding-top: 10px;
@@ -937,7 +937,7 @@ h4 {
 
 .nfm-section-5 {
     padding-top: 25px;
-    padding-bottom: 15px;
+    padding-bottom: 20px;
 }
 .nfm-section-5-head h1{
   text-align: center;
@@ -955,7 +955,7 @@ h4 {
     color: #ff9c00;
     text-align: center;
     margin-top: 30px;
-    margin-bottom: 25px;
+    margin-bottom: 35px;
 }
 .nfm-sub-con-6-img-3{
   padding-top: 10px;
@@ -992,7 +992,7 @@ h4 {
   color: #fff;
 }
 .nfr-section-1{
-  padding: 0 0 0;
+  padding: 0 0 15px;
 }
 .nfr-section-1-img-01{
   padding-top: 10px;
