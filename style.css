@@ -992,7 +992,7 @@ h4 {
   color: #fff;
 }
 .nfr-section-1{
-  padding: 0 0 15px;
+  padding: 0 0 0;
 }
 .nfr-section-1-img-01{
   padding-top: 10px;
@@ -1014,7 +1014,7 @@ h4 {
 }
 .nfr-sec-1-fea-img-02{
   text-align: right;
-  padding-bottom: 5px;
+  padding-bottom: 3px;
 }
 .nfr-sec-1-fea-img-02 img{
   margin-top: -35px;
@@ -1055,8 +1055,11 @@ h4 {
   padding-bottom: 30px;
 }
 
+.nfr-section-5{
+  padding-top: 10px;
+}
 .nfr-section-3{
-  padding: 27px 0 45px;
+  padding: 27px 0 15px;
 }
 .nfr-sec-yellow-title-03 h2{
     display: inline-block;
@@ -1077,7 +1080,7 @@ h4 {
 }
 
 .nfr-sec-3-img-01{
-  padding: 50px 0 30px;
+  padding: 40px 0 30px;
 }
 
 .nfr-sec-3-img-02{
@@ -1187,9 +1190,12 @@ box-shadow: 0px 0px 16px 0px rgba(222,222,222,1);
 }
 .nfr-section-5-cntlr{
   padding: 3px;
-  margin-bottom: 27px;
+  margin-bottom: 35px;
   border-radius: 10px;
   background-size: 100% 100%!important;
+}
+.nfr-section-6{
+  padding-bottom: 10px;
 }
 .nfr-section-5-inr{
   padding: 0 27px 0;
@@ -1256,6 +1262,7 @@ box-shadow: 0px 0px 16px 0px rgba(222,222,222,1);
 .nfr-sec-5-fea-img-02{
   margin: 0 -7px;
   margin-bottom: 40px;
+  padding-top: 10px;
 }
 .nfr-sec-5-fea-img-02 img{
   width: 100%;
@@ -1423,7 +1430,7 @@ box-shadow: 1px 1px 42px 6px rgba(217,217,217,1);
 
 .nfr-section-11{
   color: #fff;
-  padding: 45px 0 1px;
+  padding: 45px 0 15px;
 }
 .fl-pkg-section.nfr-section-12{
   padding-top: 75px;
