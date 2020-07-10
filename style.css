@@ -1946,7 +1946,8 @@ box-shadow: 1px 1px 42px 6px rgba(217,217,217,1);
       min-height: 0;
     }
     .nfs-sec-6-img-01 img{
-      display: block;
+      display: inline-block;
+      vertical-align: baseline;
     }
     .nfs-se-6-row-3-hdr {
         margin-top: 30px;
