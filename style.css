@@ -1,4 +1,5 @@
 
+
 @font-face {
     font-family: 'Antonio-Regular';
     src: url('assets/fonts/Antonio-Regular/Antonio-Regular.woff2') format('woff2'),
@@ -2192,6 +2193,29 @@ box-shadow: 1px 1px 42px 6px rgba(217,217,217,1);
       margin-right: 0;
     }
 
+}
+
+@media(max-width: 1150px){
+  .fl-pkg-grd-controller > ul > li.order3 .fl-pkg-grd-col-fea-img div img,
+  .fl-pkg-grd-controller > ul > li.order2 .fl-pkg-grd-col-fea-img div img{
+    max-height: 320px;
+    height: 100%;
+  }
+}
+@media(max-width: 1100px){
+  .fl-pkg-grd-controller > ul > li.order3 .fl-pkg-grd-col-fea-img div img,
+  .fl-pkg-grd-controller > ul > li.order2 .fl-pkg-grd-col-fea-img div img{
+    max-height: 300px;
+  }
+  .fl-pkg-grd-controller > ul > li:nth-child(2) .fl-pkg-grd-col-btm-bdr {
+      margin-top: -35px;
+  }
+}
+@media(max-width: 1023px){
+  .fl-pkg-grd-controller > ul > li.order3 .fl-pkg-grd-col-fea-img div img,
+  .fl-pkg-grd-controller > ul > li.order2 .fl-pkg-grd-col-fea-img div img{
+    max-height: 280px;
+  }
 }
 @media(max-width: 991px){
     .hide-sm{
