@@ -1,5 +1,3 @@
-
-
 @font-face {
     font-family: 'Antonio-Regular';
     src: url('assets/fonts/Antonio-Regular/Antonio-Regular.woff2') format('woff2'),
@@ -323,14 +321,15 @@ h4 {
   padding: 150px 40px 70px 30px;
   border-bottom: 11px solid #ff9c00;
   margin-bottom: -10px;
-  max-width: 612px;
+  max-width: 625px;
   margin-left: -15px;
 }
-.nfs-sec-1-des h1{
-  color: #fff;
-  text-transform: capitalize;
-  font-family: 'Antonio-Regular';
-  text-shadow: 0 3px 2px #1575a5;
+.nfs-sec-1-des h1 {
+    color: #fff;
+    text-transform: capitalize;
+    font-family: 'Antonio-Bold';
+    text-shadow: 0 3px 3px #1575a5;
+    line-height: 1.25;
 }
 .nfs-sec-1-des h1 span{
   color: #ffde00;
@@ -1915,7 +1914,7 @@ box-shadow: 1px 1px 42px 6px rgba(217,217,217,1);
 
     .nfs-sec-1-des {
         padding: 110px 40px 60px 30px;
-        max-width: 470px;
+        max-width: 530px;
     }
     .nfs-sec-1-des h1 {
         font-size: 45px;
@@ -2243,7 +2242,7 @@ box-shadow: 1px 1px 42px 6px rgba(217,217,217,1);
 
     .nfs-sec-1-des {
       padding: 90px 30px 50px 30px;
-      max-width: 370px;
+      max-width: 450px;
     }
     .nfs-sec-1-des h1 {
         font-size: 35px;
@@ -2532,7 +2531,7 @@ box-shadow: 1px 1px 42px 6px rgba(217,217,217,1);
 
     .nfs-sec-1-des {
       padding: 70px 30px 40px 30px;
-      max-width: 345px;
+      max-width: 415px;
     }
     .nfs-sec-1-des h1 {
         font-size: 32px;
@@ -2688,7 +2687,7 @@ box-shadow: 1px 1px 42px 6px rgba(217,217,217,1);
   .nfs-sec-1-des{
     padding-left: 20px;
     padding-right: 20px;
-    max-width: 324px;
+    max-width: 380px;
   }
   .nfs-sec-2-des h4{
     font-size: 24px;
