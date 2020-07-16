@@ -63,7 +63,11 @@ AddType text/javascript .js
 
 <IfModule mod_headers.c>
 # Set XSS Protection header
-Header set X-XSS-Protection "1; mode=block"
+Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+header always set Feature-Policy "autoplay 'none'; camera 'none'"
+header always set X-Content-Type-Options "nosniff"
+header always set X-Frame-Options "SAMEORIGIN"
+header always set X-XSS-Protection "1; mode=block"
 </IfModule>
 
 ###################################################################################
